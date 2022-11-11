@@ -1,8 +1,10 @@
 # TechMatrix
 
------------------------------------------------------------------<TECH   MATRIX>-----------------------------------------------------------------------------------------
-  Team Name : Twitter is Dead
-  Theme : A better search engine for education
+-----------------------------------------------------------------<TECH   MATRIX>--------------------------------------------------------------------------------------------
+  
+    Team Name : Twitter is Dead
+  
+    Theme : A better search engine for education
 
   How will you Solve the Problem ?
   
