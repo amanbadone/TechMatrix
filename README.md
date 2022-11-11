@@ -1,21 +1,22 @@
 # TechMatrix
 
 -----------------------------------------------------------------<TECH   MATRIX>-----------------------------------------------------------------------------------------
-Team Name : Twitter is Dead
-Theme : A better search engine for education
+  Team Name : Twitter is Dead
+  Theme : A better search engine for education
 
-Students have to struggle a lot while they go through their studies and exams. We can save them valuable time by providing them with a way to get the desired output of the search made. With inspiration from different platforms like learnawesome.org , kidzsearch.com , kiddle.com , kidtopia.com , and scholar.google.com, we have an idea to build a platform to provide the most accurate possible search results specialized for student's search queries.
-For this project, we will be using Programmable search engine resources from google itself to ensure we have the search results from the world's most accurate source that is Google
-
-Also using it gives us the option to use the SafeSearch by google which clears out unnecessary and unexpected search results
-
-So here is how it is planned to go,
+  How will you Solve the Problem ?
   
-1)we will create the front end with inspiration from kiddle.com but may add some extra category filters so as to enhance the search results 
-
+  Approach :
   
-2)We will then separately program search engines using the programmable search engine google for each specific category we will make 
-
-and then finally
+            1)create a front end with some extra category filters to enhance the search results 
+            2)program search engines using the programmable search engine google
+            3) integrate this together  for each specification or filter which help the user to get the best output
   
-3)we will integrate this together that is the search bar in the front end and for each specification or filter you choose we have special search filters which help user to get the best output
+  
+  What will be your final demo ?
+  
+  Expected Final Solution:
+  
+            This will comprise a website that will have the customized search engine and will also have categories to search under for a better and more accurate result             with SafeSearch filters by google enabled by default as per the customization
+  
+  
